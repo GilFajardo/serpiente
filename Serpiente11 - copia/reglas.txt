@@ -1,5 +1,0 @@
-1	Mueve a Quetzalcoatl con las flechas de tu teclado para desplazarte por el campo de batalla.
-2	Deberas comer a los espanoles para sumar puntos, cada espanol equivale a 10 puntos.
-3	Evita chocar con las paredes del campo de batalla.
-4	Evita chocar con el propio cuerpo de Quetzalcoatl.
-5	Quetzalcoatl tiene 3 vidas, si choca con la pared o con su cuerpo tendras la oportunidad de salvarlo respondiendo una pregunta, si es correcta conserva su vida, pero si es incorrecta la perdera.

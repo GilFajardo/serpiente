@@ -1,8 +1,0 @@
-82006	Gil Fajardo	gilcom	18	NotableJewel	Gilitocontra	8090
-182007	Dario Hernandez	dancom	19	DanPro	ContradeDan	700
-12312	cesar	cesarcom	18	cesarpro	cesarin	280
-10041	fernando castillo	fer.com	18	fernando2005	fernando	180
-36299	carlos	carlos.com	23	carlosd	carloscontra	240
-28467	Tobias Elordi	tobi.com	54	Tobi2007	Tobi	210
-16334	gil	gil.com	39	gil	gil	230
-36500	Sindi Anahi	sindi.com	38	SindiPro	Sindi	50
